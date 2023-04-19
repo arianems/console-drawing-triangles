@@ -1,0 +1,15 @@
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\bin\Debug\net7.0\TrianglesTest.exe
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\bin\Debug\net7.0\TrianglesTest.deps.json
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\bin\Debug\net7.0\TrianglesTest.runtimeconfig.json
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\bin\Debug\net7.0\TrianglesTest.dll
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\bin\Debug\net7.0\TrianglesTest.pdb
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\TrianglesTest.csproj.AssemblyReference.cache
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\TrianglesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\TrianglesTest.AssemblyInfoInputs.cache
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\TrianglesTest.AssemblyInfo.cs
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\TrianglesTest.csproj.CoreCompileInputs.cache
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\TrianglesTest.dll
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\refint\TrianglesTest.dll
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\TrianglesTest.pdb
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\TrianglesTest.genruntimeconfig.cache
+C:\Users\Josiane\source\repos\TrianglesTest\TrianglesTest\obj\Debug\net7.0\ref\TrianglesTest.dll
