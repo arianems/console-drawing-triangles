@@ -8,8 +8,16 @@ using TrianglesTest.Helpers.Interfaces;
 
 namespace TrianglesTest.Shapes
 {
+    /// <summary>
+    /// Subclass of the Shape abstract class. Represents a geometric shape with 3 (in this case, equal) sides.
+    /// </summary>
     public class Triangle : Shape
     {
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Triangle"/> subclass, passing on the specified height value
+        /// to the constructor of the base class. Ensures that the triangle will be equilateral by assigning the height's value to the width parameter of the base class.
+        /// </summary>
+        /// <param name="height">The height of the triangle.</param>
         public Triangle(int height) : base(height, height)
         {
 

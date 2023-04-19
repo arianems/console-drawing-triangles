@@ -7,6 +7,13 @@ var drawingHelper = new DrawingHelper();
 
 
 MainExercise();
+
+
+if (UserInteraction.CheckContinue())
+{
+   DrawShape(drawingHelper);
+}
+
 void MainExercise()
 {
     var input = 10;
@@ -16,12 +23,6 @@ void MainExercise()
         new Triangle(i).Draw(drawingHelper);
         Thread.Sleep(1000);
     }
-}
-
-
-if (UserInteraction.CheckContinue())
-{
-   DrawShape(drawingHelper);
 }
 
 void DrawShape(IDrawingHelper drawingHelper)
@@ -46,7 +47,7 @@ void DrawShape(IDrawingHelper drawingHelper)
             break;
 
         default:
-            Console.WriteLine("Sorry! You can't draw that yet");
+            Console.WriteLine("\nSorry! You can't draw that yet.");
             break;
     }
 

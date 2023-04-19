@@ -7,14 +7,16 @@ using TrianglesTest.Helpers.Interfaces;
 
 namespace TrianglesTest.Helpers
 {
-
+    /// <summary>
+    /// Utility class that provides methods for composing rows and columns. 
+    /// </summary>
     public class DrawingHelper : IDrawingHelper
     {
         public static void WriteBlankColumns(int blankColumns)
         {
             for (int i = blankColumns; i > 0; i--)
             {
-                Console.Write(".");
+                Console.Write(" ");
             }
         }
 
