@@ -64,7 +64,7 @@ namespace TrianglesTest.Helpers
         /// Prompts the user to enter a value for the number of sides that compose the geometric shape to be drawn.
         /// If a non-valid value is provided, the method displays an error message and the user is prompted to try again.
         /// </summary>
-        /// <returns>returns the <see cref="int"/> that represents the geometric shape's height.</returns>
+        /// <returns>returns an <see cref="int"/> representing the number of sides of the geometric shape</returns>
         public static int GetNumberOfSides()
         {
             while (true)
