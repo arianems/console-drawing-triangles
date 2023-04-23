@@ -37,16 +37,8 @@ namespace TrianglesTest.Shapes
                 }
                 else if (row == Height)
                 {
-                    var lastRowColumns = 0;
-                    while (lastRowColumns < row)
-                    {
-                        Console.Write("*");
-                        Console.Write(" ");
-                        lastRowColumns++;
-                    }
-
+                    DrawingHelper.WriteFullRow(Height);
                     Console.WriteLine("\n");
-
                 }
                 else
                 {
@@ -54,8 +46,7 @@ namespace TrianglesTest.Shapes
                     drawingHelper.WriteBlankColumns(outerBlankColumns);
                     drawingHelper.WriteBorderedBlankRow(innerBlankColumns);
                     innerBlankColumns += 2;
-
-                }
+               }
             }
         }
     }
